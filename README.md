@@ -18,6 +18,6 @@ Kitch-in-Love 2/28/2018, update 4/23/2021 - grab a friend and play this extremel
 
 Extreme Ghosting 3/2/2018, updated 4/22/2021 - Skateboard your way to victory in this 2D skater boy game where you shoot balls against enemies, avoid fire, and grind on some pipes! Original: https://shirushii.itch.io/extreme-ghosting. *LPV*: https://www.dropbox.com/s/tg8j9kruhn2snag/extreme_ghosting_Data.zip?dl=0.
 
-Antichess 3/2/2018 - play loser's chess against the computer. Created in class with a simple AI. *LPV*: https://www.dropbox.com/s/87kjdvonbf77sg8/AnTieSHESS.zip?dl=0.
+Antichess 3/2/2018 - play loser's chess against the computer. Created in class with a simple AI. *LPV*: https://www.dropbox.com/s/nvw800iqcj19ao6/AnTieSHESS.zip?dl=0.
 
 
